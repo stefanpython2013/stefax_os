@@ -1,0 +1,3 @@
+to build you copy this files and run ./build.sh(on linux or wsl)
+to install wsl open cmd and write "winget install wsl"
+type wsl for more instructions
